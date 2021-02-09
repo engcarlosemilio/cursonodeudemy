@@ -1,0 +1,28 @@
+{
+  "name": "cursoudemy",
+  "version": "1.0.0",
+  "description": "Curso de Node Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engcarlosemilio/cursonodeudemy.git"
+  },
+  "keywords": [
+    "udemy",
+    "nodejs"
+  ],
+  "author": "Carlos Emílio Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engcarlosemilio/cursonodeudemy/issues"
+  },
+  "homepage": "https://github.com/engcarlosemilio/cursonodeudemy#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
